@@ -7,22 +7,22 @@
 - Added explicit preservation of live fragments and author voice.
 - Added editor review mode and profile-based prompting.
 
-## 1.0.4
+## 1.4.0
 - Added a dedicated profiles block with `soft` and `hard` modes.
 - Clarified how to select a mode in prompts.
 - Expanded style preservation rules for Russian-first use.
 
-## 1.0.3
+## 1.3.0
 - Added rhythm, nеровности, and syntax rules.
 - Added explicit handling for passive voice and impersonal constructions.
 - Added concrete-detail guidance and protection for already natural fragments.
 
-## 1.0.2
+## 1.2.0
 - Added anti-hype and fake-engagement rules.
 - Added rhetorical question cleanup.
 - Expanded the editing algorithm with structural simplification and stylistic cleanup.
 
-## 1.0.1
+## 1.1.0
 - Added a ban on long dashes as an AI-writing marker.
 - Added rules for reducing excessive structure and decorative formatting.
 - Added more examples for rewriting into natural Russian prose.
